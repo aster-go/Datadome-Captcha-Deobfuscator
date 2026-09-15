@@ -70,9 +70,3 @@ Contributions to enhance or extend the functionality of this tool are welcome. P
 ## License
 This project is made available under the MIT [License](LICENSE). For more information, refer to the LICENSE file.
 
-## Contact
-- [Website](https://glizzykingdreko.github.io)
-- [GitHub](https://github.com/glizzykingdreko)
-- [Twitter](https://mobile.twitter.com/glizzykingdreko)
-- [Medium](https://medium.com/@glizzykingdreko)
-- [Email](mailto:glizzykingdreko@protonmail.com)
